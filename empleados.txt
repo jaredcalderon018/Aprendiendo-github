@@ -1,0 +1,3 @@
+Empleado 1: Administrador
+Empleado 2: Medico 
+Empleaod 3: Enfermero
