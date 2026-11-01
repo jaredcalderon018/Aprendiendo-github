@@ -6,3 +6,5 @@ git
 github
 github desk
 control de versiones 
+
+estoy apre
